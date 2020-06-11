@@ -48,6 +48,7 @@ px4_add_board(
 		#sih
 		simulator
 		temperature_compensation
+		tone_alarm
 		vmount
 		vtol_att_control
 		uuv_att_control
